@@ -1,0 +1,8 @@
+.settings/
+.cproject
+.project
+Drivers/
+Debug/
+ds18b20.elf.launch
+stm32_flash.ld
+src/startup_stm32f051x8.s
